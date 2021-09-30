@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,eAAe,CAAC;EACZ,UAAU,EAAE,OAAO;EACnB,OAAO,EAAE,QAAQ;CACpB",
+    "sources": [
+        "centeredtext.scss"
+    ],
+    "names": [],
+    "file": "centeredtext.css"
+}
